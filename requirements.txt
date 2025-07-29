@@ -1,0 +1,5 @@
+# requirements.txt
+# List of dependencies for the trading UI project
+
+PyQt5>=5.15.0
+vnpy>=2.0.0

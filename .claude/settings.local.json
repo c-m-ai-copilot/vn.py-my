@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(export:*)",
+      "Bash(ls:*)",
+      "Bash(echo:*)",
+      "Bash(mkdir:*)",
+      "Bash(PYTHONPATH=/mnt/d/home/vnpy-test-v2 python tests/mock_data/mock_launcher.py)",
+      "Bash(touch:*)",
+      "Bash(chmod:*)",
+      "Bash(rg:*)",
+      "Bash(sed:*)",
+      "Bash(git branch:*)",
+      "Bash(git pull:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ],
+    "deny": []
+  }
+}

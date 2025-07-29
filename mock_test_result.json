@@ -1,0 +1,11 @@
+{
+  "mock_enabled": true,
+  "contracts_count": 3,
+  "test_time": "2025-07-22 13:38:42.864441",
+  "features": [
+    "contracts",
+    "ticks",
+    "accounts",
+    "orders"
+  ]
+}
